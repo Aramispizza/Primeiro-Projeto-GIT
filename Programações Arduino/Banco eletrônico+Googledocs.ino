@@ -6,9 +6,9 @@
 #include <MFRC522.h>
 #include <SoftwareSerial.h>
 
-#define FIREBASE_HOST "banco-eletronico-aj.firebaseio.com"
-#define FIREBASE_AUTH "9lyMsT71c7tMQKKF9mZoF9tsMkfuO9dHfOB6WnVA"
-#define WIFI_SSID "Aramis Pizza"
+#define FIREBASE_HOST "url.firebaseio.com"
+#define FIREBASE_AUTH "    "
+#define WIFI_SSID "rede name"
 #define WIFI_PASSWORD "12345678"
 #define RST_PIN         5           // define o pino Reset
 #define SS_PIN          15          // define o pino slave select
